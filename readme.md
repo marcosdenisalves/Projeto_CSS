@@ -1,2 +1,2 @@
-# Meu primeiro projeto web com HTML e CSS
+# Projeto com HTML5, CSS3
 ![imagem qualquer](site.png)
